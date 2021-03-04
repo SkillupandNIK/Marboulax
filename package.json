@@ -1,0 +1,18 @@
+{
+  "name": "ouanounourisson",
+  "version": "1.0.0",
+  "description": "shteumeuul",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "reload -bd ./src"
+  },
+  "keywords": [
+    "cacamou"
+  ],
+  "author": "ouan",
+  "license": "ISC",
+  "dependencies": {
+    "reload": "^3.1.1"
+  }
+}
